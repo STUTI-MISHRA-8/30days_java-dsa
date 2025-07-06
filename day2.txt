@@ -1,0 +1,17 @@
+>studying about structure of JAVA
+
+>anything we write, if it has the extension ".java" , it is a "class"
+
+>class name is same as file name
+
+> let's say the class name is "Pqr", so is the file name, then it is a PUBLIC CLASS.
+ because it can be accessed from literally anywhere.
+
+>FUNCTION : A BUNCH OF CODE WE CAN USE AGAIN AND AGAIN
+
+>you code -- the jdk converts it into compiler understandable "byte code" -- compiler compiles
+
+>"main function" -- it is the function that gives the code its permission to run
+
+>package: folder in which java file lies
+
